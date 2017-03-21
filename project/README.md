@@ -13,8 +13,8 @@ Self-created data of author's favorite movies' information in different category
 ## How to use it
 * Make sure download all files in this project
 * In Terminal: 
-1. Make sure you switch to the directory of this project
-1. Run `python entertainment_center.py` 
+    1. Make sure you switch to the directory for this project
+    2. Run `python entertainment_center.py` 
 
 ## Author
 [Yingtao Xu](https://github.com/MomokoXu)
